@@ -1,0 +1,29 @@
+* {box-sizing: border-box;}
+
+body {background-color: #226b80;}
+
+h1 {text-align: center;font-size: 23px;color: #fff;font-family: 'Courier New', Courier, monospace;}
+
+#color-box {width: 400px;height: 500px;margin: 20px auto;padding: 10px;background-color: transparent;}
+
+#screen {width: 100%;height: 70%;border-radius: 10px;background-color: #8e2e6a;}
+
+#colors {width: 100%;padding: 0;display: flex;flex-wrap: wrap;justify-content: center; }
+
+li {list-style-type: none;display: inline-block;margin: 5px;width: 70px;border-radius: 5px;height: 70px;cursor: pointer;border: 3px solid white;}
+
+#blue {background-color: #010059;}
+
+#green {background-color: #2b580c;}
+
+#red {background-color: #af0404;}
+
+#lightblue {background-color: #263238;}
+
+#yellow{background-color: #F8D800;}
+
+#moov {background-color: #7367F0;}
+
+#lightgreen {background-color: #32CCBC;}
+
+#darkbrown {background-color: #360940;}
